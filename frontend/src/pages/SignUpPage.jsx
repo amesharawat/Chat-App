@@ -10,7 +10,6 @@ function SignUpPage() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-
     signup(formData);
   };
 
@@ -31,7 +30,6 @@ function SignUpPage() {
 
                 {/* FORM */}
                 <form onSubmit={handleSubmit} className="space-y-6">
-
                   {/* FULL NAME */}
                   <div>
                     <label className="auth-input-label">
@@ -94,14 +92,13 @@ function SignUpPage() {
                       "Create Account"
                     )}
                   </button>
-
-                  <div className="mt-6 text-center">
-                    <Link to="/login" className="auth-link">
-                      Already have an account? Login
-                    </Link>
-                  </div>
-
                 </form>
+
+                <div className="mt-6 text-center">
+                  <Link to="/login" className="auth-link">
+                    Already have an account? Login
+                  </Link>
+                </div>
               </div>
             </div>
 
@@ -128,7 +125,7 @@ function SignUpPage() {
         </BorderAnimatedContainer>
       </div>
     </div>
-  )
+  );
 }
 
 export default SignUpPage;
