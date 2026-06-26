@@ -1,7 +1,7 @@
 function NoConversationPlaceholder() {
   return (
     <div>
-      
+      NoConversationPlaceholder
     </div>
   )
 }
