@@ -103,6 +103,7 @@ export const logout = (_, res) => {
     res.status(200).json({ message: "Logged out successfully" });
 };
 
+
 export const updateProfile = async (req, res) => {
     try {
         const { profilePic } = req.body;
@@ -121,6 +122,6 @@ export const updateProfile = async (req, res) => {
         res.status(200).json(updatedUser);
     } catch (error) {
         console.log("Error in update profile:", error);
-        res.status(500).json({ message: "Internal server error" });
+        res.status(500).js
     }
 };
