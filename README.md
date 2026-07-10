@@ -17,7 +17,7 @@
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](PASTE_LOGIN_SCREENSHOT_URL_HERE)
+![Login Page](https://github.com/amesharawat/Chat-App/blob/eddd35e0318d9aabbbc54c1c840717582043cf07/Screenshot%20(1029).png)
 
 ### 📝 Sign Up Page
 ![Sign Up Page](PASTE_SIGNUP_SCREENSHOT_URL_HERE)
