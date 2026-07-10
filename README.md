@@ -20,7 +20,7 @@
 ![Login Page](https://github.com/amesharawat/Chat-App/blob/eddd35e0318d9aabbbc54c1c840717582043cf07/Screenshot%20(1029).png)
 
 ### 📝 Sign Up Page
-![Sign Up Page](PASTE_SIGNUP_SCREENSHOT_URL_HERE)
+![Sign Up Page](https://github.com/amesharawat/Chat-App/blob/88021466485d263ab8728a3df90a7a7f574d6211/Screenshot%20(1032).png)
 
 ### 💬 Chat Interface
 ![Chat Interface](PASTE_CHAT_INTERFACE_SCREENSHOT_URL_HERE)
