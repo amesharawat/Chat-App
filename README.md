@@ -1,4 +1,4 @@
-# 💬 Chatterbox — Real-Time Chat Application
+# 💬 Chat-App — Real-Time Chat Application
 
 [![React](https://img.shields.io/badge/React-19-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Build-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
