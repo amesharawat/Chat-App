@@ -23,7 +23,7 @@
 ![Sign Up Page](https://github.com/amesharawat/Chat-App/blob/88021466485d263ab8728a3df90a7a7f574d6211/Screenshot%20(1032).png)
 
 ### 💬 Chat Interface
-![Chat Interface](PASTE_CHAT_INTERFACE_SCREENSHOT_URL_HERE)
+![Chat Interface](https://github.com/amesharawat/Chat-App/blob/393f28d2fddc2f610214c1d3630431513c19be8a/Screenshot%20(1033).png)
 
 ### 📇 Contacts / Select Conversation View
 ![Contacts View](PASTE_CONTACTS_SCREENSHOT_URL_HERE)
