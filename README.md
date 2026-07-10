@@ -8,7 +8,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge&logo=render)](https://chat-app-p35t.onrender.com)
 
-> A full-stack, real-time chat application built from scratch with custom authentication, live messaging, online/offline presence tracking, and media sharing — all wrapped in a clean, animated UI.
+> A full-stack real-time chat application featuring secure custom authentication, instant messaging, live online/offline presence, and seamless media sharing — all built from the ground up with a smooth, modern interface.
 
 🔗 **Live Demo:** [chat-app-p35t.onrender.com](https://chat-app-p35t.onrender.com)
 
@@ -147,38 +147,38 @@ Open [http://localhost:5173](http://localhost:5173) to view the app.
 
 ## 📁 Project Structure
 Chat-App/
-├── backend/
-│   ├── src/
-│   │   ├── controllers/     # auth.controller.js, message.controller.js
-│   │   ├── emails/          # emailHandlers.js, emailTemplates.js
-│   │   ├── lib/             # arcjet.js, cloudinary.js, db.js, env.js, resend.js, socket.js, utils.js
-│   │   ├── middleware/      # arcjet.middleware.js, auth.middleware.js, socket.auth.middleware.js
-│   │   ├── models/          # User.js, Message.js
-│   │   ├── routes/          # auth.route.js, message.route.js
-│   │   └── server.js
-│   ├── package.json
-│   └── package-lock.json
-├── frontend/
-│   ├── public/
-│   │   ├── sounds/
-│   │   ├── avatar.png
-│   │   ├── favicon.svg
-│   │   ├── icons.svg
-│   │   ├── login.png
-│   │   └── signup.png
-│   ├── src/
-│   │   ├── components/      # ActiveTabSwitch, BorderAnimatedContainer, ChatContainer, ChatHeader, ChatsList, ContactList, etc.
-│   │   ├── pages/            # ChatPage.jsx, LoginPage.jsx, SignUpPage.jsx
-│   │   ├── store/            # useAuthStore.js, useChatStore.js
-│   │   ├── App.jsx
-│   │   ├── index.css
-│   │   └── main.jsx
-│   ├── index.html
-│   ├── package.json
-│   ├── tailwind.config.js
-│   └── vite.config.js
-├── .gitignore
-└── package.json
+|-- backend/
+|   |-- src/
+|   |   |-- controllers/       # auth.controller.js, message.controller.js
+|   |   |-- emails/            # emailHandlers.js, emailTemplates.js
+|   |   |-- lib/               # arcjet.js, cloudinary.js, db.js, env.js, resend.js, socket.js, utils.js
+|   |   |-- middleware/        # arcjet.middleware.js, auth.middleware.js, socket.auth.middleware.js
+|   |   |-- models/            # User.js, Message.js
+|   |   |-- routes/            # auth.route.js, message.route.js
+|   |   `-- server.js
+|   |-- package.json
+|   `-- package-lock.json
+|-- frontend/
+|   |-- public/
+|   |   |-- sounds/
+|   |   |-- avatar.png
+|   |   |-- favicon.svg
+|   |   |-- icons.svg
+|   |   |-- login.png
+|   |   `-- signup.png
+|   |-- src/
+|   |   |-- components/        # ActiveTabSwitch, BorderAnimatedContainer, ChatContainer, ChatHeader, ChatsList, ContactList, etc.
+|   |   |-- pages/             # ChatPage.jsx, LoginPage.jsx, SignUpPage.jsx
+|   |   |-- store/             # useAuthStore.js, useChatStore.js
+|   |   |-- App.jsx
+|   |   |-- index.css
+|   |   `-- main.jsx
+|   |-- index.html
+|   |-- package.json
+|   |-- tailwind.config.js
+|   `-- vite.config.js
+|-- .gitignore
+`-- package.json
 ---
 
 ## 🌐 Deployment
