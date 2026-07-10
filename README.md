@@ -26,7 +26,7 @@
 ![Chat Interface](https://github.com/amesharawat/Chat-App/blob/393f28d2fddc2f610214c1d3630431513c19be8a/Screenshot%20(1033).png)
 
 ### 📇 Contacts / Select Conversation View
-![Contacts View](PASTE_CONTACTS_SCREENSHOT_URL_HERE)
+![Contacts View](https://github.com/amesharawat/Chat-App/blob/d21abf6c0150b070ed66e052adb40e84c4fc0a83/Screenshot%20(1034).png)
 
 ---
 
